@@ -1,0 +1,27 @@
+#main {
+  margin: 50px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#main > div > h1 {
+  color: rgb(119, 116, 198);
+  font-weight: 700;
+  font-size: 50px;
+}
+
+#main > div > p {
+  margin: 10px 0px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#main > div > button {
+  color: white;
+  background-color: rgb(237, 4, 55);
+  border: 0;
+  border-radius: 7px;
+  padding: 13px 17px;
+  font-weight: 600;
+}
